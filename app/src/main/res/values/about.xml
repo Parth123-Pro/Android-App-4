@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_version" translatable="false">0.20.5.1</string>
+    <string name="database_version_label" translatable="false">Database version: </string>
+    <string name="copyright" translatable="false">Copyright(c) 2023 - Codizious Technologies - All rights reserved.</string>
+    <string name="author" translatable="false">Parmar Parth</string>
+    <string name="opensource_label" translatable="false">Personal Website URL: </string>
+    <string name="opensource_url" translatable="false">http://parmarparth.website/?i=2</string>
+    <string name="email_label" translatable="false">Contact the developer:</string>
+    <string name="email_url" translatable="false">pparmar585@rku.ac.in</string>
+
+</resources>
